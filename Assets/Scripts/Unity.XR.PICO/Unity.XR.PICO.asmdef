@@ -1,0 +1,9 @@
+{
+  "name": "Unity.XR.PICO",
+  "references": [
+    "Unity.XR.Interaction.Toolkit",
+    "Unity.InputSystem",
+    "Unity.XR.Management"
+  ],
+  "allowUnsafeCode": true
+}

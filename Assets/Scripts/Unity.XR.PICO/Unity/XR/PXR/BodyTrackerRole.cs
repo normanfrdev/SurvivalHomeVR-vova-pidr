@@ -1,0 +1,34 @@
+namespace Unity.XR.PXR
+{
+	public enum BodyTrackerRole
+	{
+		Pelvis = 0,
+		LEFT_HIP = 1,
+		RIGHT_HIP = 2,
+		SPINE1 = 3,
+		LEFT_KNEE = 4,
+		RIGHT_KNEE = 5,
+		SPINE2 = 6,
+		LEFT_ANKLE = 7,
+		RIGHT_ANKLE = 8,
+		SPINE3 = 9,
+		LEFT_FOOT = 10,
+		RIGHT_FOOT = 11,
+		NECK = 12,
+		LEFT_COLLAR = 13,
+		RIGHT_COLLAR = 14,
+		HEAD = 15,
+		LEFT_SHOULDER = 16,
+		RIGHT_SHOULDER = 17,
+		LEFT_ELBOW = 18,
+		RIGHT_ELBOW = 19,
+		LEFT_WRIST = 20,
+		RIGHT_WRIST = 21,
+		LEFT_HAND = 22,
+		RIGHT_HAND = 23,
+		NONE_ROLE = 24,
+		MIN_ROLE = 0,
+		MAX_ROLE = 23,
+		ROLE_NUM = 24
+	}
+}

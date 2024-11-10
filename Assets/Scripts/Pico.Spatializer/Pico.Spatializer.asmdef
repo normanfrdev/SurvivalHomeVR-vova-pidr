@@ -1,0 +1,7 @@
+{
+  "name": "Pico.Spatializer",
+  "references": [
+    "Unity.XR.PICO"
+  ],
+  "allowUnsafeCode": true
+}

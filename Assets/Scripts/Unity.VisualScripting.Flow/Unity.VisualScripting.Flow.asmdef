@@ -1,0 +1,9 @@
+{
+  "name": "Unity.VisualScripting.Flow",
+  "references": [
+    "Unity.VisualScripting.Core",
+    "Unity.InputSystem",
+    "Unity.VisualScripting.Antlr3.Runtime"
+  ],
+  "allowUnsafeCode": true
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PICO4U_Controller_Left
+  m_Controller: {fileID: 9100000, guid: 583b63048c917f748bb818a43074df4e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cf12ca900199cba418bca5db970f7e27, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3ab2b0f1cfa31b14fa8ee3f135fdea4d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2a5d42a3c6aafd9419cb5e4f13c4732d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b654aced2ee47de44abf64b540569abe, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4a27a48c8af90204e88ebba21bcc0dcc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5fe26ea7e22da654fa2c110cf8d76827, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a0855dc72f81e2b498e2f64c03d38794, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9f498b5fdaf804a4c8635a4c44a3a347, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 274c49f0395116945a217a63f115e3e0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4ef13e83af9aee44a96ae66107ec708e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1ef302fa8dc3d2f41b7569ff288d53a0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 600b5054bdcc20d45af7139dc0189e29, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ba6a8a68d3c03e846be670728e9f7cfb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f64967db164cca143bd51cbfd710ec54, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9dbc5c2097bc4264fa3e5790196f3bd7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4f5af35471e0d6b4791cda5f514afcd2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 519ea02b9c7c0104cb67c7b766ef9e90, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f307f6d2782ace0489e7623646d35451, type: 2}

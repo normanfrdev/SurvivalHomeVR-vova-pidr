@@ -1,0 +1,7 @@
+{
+  "name": "Unity.VisualScripting.Core",
+  "references": [
+    "Unity.InputSystem"
+  ],
+  "allowUnsafeCode": true
+}

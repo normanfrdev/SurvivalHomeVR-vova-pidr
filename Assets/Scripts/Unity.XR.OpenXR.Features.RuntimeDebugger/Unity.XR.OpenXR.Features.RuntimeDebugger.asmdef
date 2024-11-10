@@ -1,0 +1,7 @@
+{
+  "name": "Unity.XR.OpenXR.Features.RuntimeDebugger",
+  "references": [
+    "Unity.XR.OpenXR"
+  ],
+  "allowUnsafeCode": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets",
+  "references": [
+    "Unity.XR.Interaction.Toolkit",
+    "Unity.InputSystem",
+    "Unity.XR.CoreUtils",
+    "Unity.Mathematics"
+  ],
+  "allowUnsafeCode": true
+}

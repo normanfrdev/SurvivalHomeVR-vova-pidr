@@ -1,0 +1,7 @@
+{
+  "name": "Unity.XR.OpenXR.Features.ConformanceAutomation",
+  "references": [
+    "Unity.XR.OpenXR"
+  ],
+  "allowUnsafeCode": true
+}

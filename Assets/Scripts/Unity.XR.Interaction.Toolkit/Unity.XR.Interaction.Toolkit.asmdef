@@ -1,0 +1,11 @@
+{
+  "name": "Unity.XR.Interaction.Toolkit",
+  "references": [
+    "Unity.InputSystem",
+    "Unity.XR.CoreUtils",
+    "Unity.Mathematics",
+    "Unity.Burst",
+    "Unity.XR.OpenXR"
+  ],
+  "allowUnsafeCode": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Unity.XR.OpenXR.Features.OculusQuestSupport",
+  "references": [
+    "Unity.XR.OpenXR"
+  ],
+  "allowUnsafeCode": true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "PICO.TobSupport",
+  "references": [
+    "Unity.XR.PICO",
+    "Unity.XR.Interaction.Toolkit"
+  ],
+  "allowUnsafeCode": true
+}
